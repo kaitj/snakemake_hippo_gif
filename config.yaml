@@ -1,0 +1,6 @@
+# Should be configured appropriately
+in_dir: /path/to/in_dir/folder
+out_dir: /path/to/out_dir/folder
+
+# Defaults to pull from docker, but user can set image path
+singularity: docker://kaitj/gif_your_nifti:miykael
